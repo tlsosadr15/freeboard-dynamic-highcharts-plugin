@@ -2,7 +2,7 @@
 <h2>Dynamic highcharts widget plugin for <a href="https://github.com/Freeboard/freeboard" target="_blank">freeboard.io</a></h2>
 <h2><span style="font-weight: normal; color: #666666;">A damn-sexy, open source real-time dashboard builder for IOT and other web mashups.</span></h2>
 <h1><a href="http://blog.onlinux.fr/dynamic-highcharts-plugin-for-freeboard-io/" target="_blank">For instructions please visit http://blog.onlinux.fr</a></h1>
-<h2>See it in action @ https://freeboard.io/board/cnpjDa</h2>
+<h2>See it in action @ <a href="https://goo.gl/mEez09" target="_blank">https://goo.gl/mEez09</a></h2>
 This widget plugin is highly based on the interactive-indicator created by <a href="https://github.com/hugocore/freeboard.io-plugins" target="_blank">Hugo Sequeira</a>.
 
 Github repository: <a href="https://github.com/onlinux/freeboard-dynamic-highcharts-plugin" target="_blank">https://github.com/onlinux/freeboard-dynamic-highcharts-plugin</a>
