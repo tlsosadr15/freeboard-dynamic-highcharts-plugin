@@ -5,7 +5,7 @@
 
 <h2>See it in action @ <a href="https://goo.gl/hbAXXU" target="_blank">https://goo.gl/hbAXXU</a></h2>
 
-This widget plugin is highly based on the interactive-indicator created by <a href="https://github.com/hugocore/freeboard.io-plugins" target="_blank">Hugo Sequeira</a>.
+This widget plugin is based on the interactive-indicator created by <a href="https://github.com/hugocore/freeboard.io-plugins" target="_blank">Hugo Sequeira</a>.
 
 Github repository: <a href="https://github.com/onlinux/freeboard-dynamic-highcharts-plugin" target="_blank">https://github.com/onlinux/freeboard-dynamic-highcharts-plugin</a>
 
@@ -23,14 +23,8 @@ Github repository: <a href="https://github.com/onlinux/freeboard-dynamic-highcha
 
 <pre style="color: #333333;"><code>head.js(
   'js/freeboard_plugins.min.js',
-  'plugins/actuator.js',
+  'plugins/plugin_highcharts.js',
   $(function() {
     //DOM Ready
     freeboard.initialize(true);
-  })head.js(
- 'js/freeboard_plugins.min.js',
- 'plugins/thirdparty/plugin_highcharts.js',
- $(function() {
- //DOM Ready
- freeboard.initialize(true);
- })</code></pre>
+  })</code></pre>
