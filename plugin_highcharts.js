@@ -40,7 +40,7 @@
 	}, {
 		"name": "blocks",
 		"display_name": "Height (No. Blocks)",
-		"type": "text",
+		"type": "number",
 		"default_value": 4
 	}, {
 		"name": "chartType",
